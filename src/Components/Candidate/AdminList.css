@@ -1,0 +1,70 @@
+
+.total{
+    height: 600px;
+    width: 1300px;
+    margin-left: 24px;
+    margin-top: 25px;
+    display: flex;
+}
+.menu{
+    height:600px;
+    width:250px;
+    background-color: white;
+    border-top-left-radius: 20px;
+}
+.logo-blue{
+    height: 70px;
+    width: 150px;
+    object-fit: contain;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.content{
+    background-color: whitesmoke;
+    height: 600px;
+    width: 1100px;
+    border-top-right-radius: 20px;
+}
+li{
+    list-style: none;
+    margin-left: -10px;
+    color: gray;
+}
+li:hover{
+    background-color: rgb(6, 82, 153);
+    color:white;
+    border-radius: 5px;
+}
+.btnForAdd{
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(6, 82, 153);
+    margin-left: 820px;
+}
+.logout{
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(6, 82, 153);
+    margin-left: 5px;
+}
+.float{
+    float: right;
+}
+.size{
+    height: 250px;
+}
+.size2{
+    height: 350px;
+}
+.c{
+    margin-left: 170px;
+}
+.success-msg{
+    background-color: rgb(24, 196, 24);
+    color: white;
+    margin-top: 50px;
+    width: 600px;
+    border-radius: 15px;
+    text-align: center;
+    margin-left: 375px;
+}
